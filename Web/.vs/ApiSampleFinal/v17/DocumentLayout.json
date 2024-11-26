@@ -1,0 +1,710 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CADA793-F270-4039-BB23-09D4B4DC137A}|ApiSampleFinal.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\web\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CADA793-F270-4039-BB23-09D4B4DC137A}|ApiSampleFinal.csproj|solutionrelative:automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC50B32-1F74-45DE-A941-B0197428E5D4}|..\\Infrastructure\\Infrastructure\\Infrastructure.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\infrastructure\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC50B32-1F74-45DE-A941-B0197428E5D4}|..\\Infrastructure\\Infrastructure\\Infrastructure.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\infrastructure\\infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC50B32-1F74-45DE-A941-B0197428E5D4}|..\\Infrastructure\\Infrastructure\\Infrastructure.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\infrastructure\\infrastructure\\repositories\\proyectorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC50B32-1F74-45DE-A941-B0197428E5D4}|..\\Infrastructure\\Infrastructure\\Infrastructure.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\infrastructure\\infrastructure\\repositories\\itareasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC50B32-1F74-45DE-A941-B0197428E5D4}|..\\Infrastructure\\Infrastructure\\Infrastructure.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\infrastructure\\infrastructure\\repositories\\iproyectosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC50B32-1F74-45DE-A941-B0197428E5D4}|..\\Infrastructure\\Infrastructure\\Infrastructure.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\infrastructure\\infrastructure\\migrations\\20241026202658_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2197E95-DE1F-4345-8CD8-83C11C29009E}|..\\Domain\\Domain\\Domain.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\domain\\domain\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC50B32-1F74-45DE-A941-B0197428E5D4}|..\\Infrastructure\\Infrastructure\\Infrastructure.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\infrastructure\\infrastructure\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF83616-5203-4809-9DC9-6E459F879376}|..\\Services\\Services\\Services.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\services\\services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF83616-5203-4809-9DC9-6E459F879376}|..\\Services\\Services\\Services.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\services\\services\\contrase\u00F1aservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CADA793-F270-4039-BB23-09D4B4DC137A}|ApiSampleFinal.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\web\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CADA793-F270-4039-BB23-09D4B4DC137A}|ApiSampleFinal.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2197E95-DE1F-4345-8CD8-83C11C29009E}|..\\Domain\\Domain\\Domain.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\domain\\domain\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC50B32-1F74-45DE-A941-B0197428E5D4}|..\\Infrastructure\\Infrastructure\\Infrastructure.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\infrastructure\\infrastructure\\repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF83616-5203-4809-9DC9-6E459F879376}|..\\Services\\Services\\Services.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\services\\services\\iusuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CADA793-F270-4039-BB23-09D4B4DC137A}|ApiSampleFinal.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9CADA793-F270-4039-BB23-09D4B4DC137A}|ApiSampleFinal.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CADA793-F270-4039-BB23-09D4B4DC137A}|ApiSampleFinal.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9CADA793-F270-4039-BB23-09D4B4DC137A}|ApiSampleFinal.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CADA793-F270-4039-BB23-09D4B4DC137A}|ApiSampleFinal.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\web\\controllers\\proyectocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CADA793-F270-4039-BB23-09D4B4DC137A}|ApiSampleFinal.csproj|solutionrelative:controllers\\proyectocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF83616-5203-4809-9DC9-6E459F879376}|..\\Services\\Services\\Services.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\services\\services\\proyectoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF83616-5203-4809-9DC9-6E459F879376}|..\\Services\\Services\\Services.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\services\\services\\tareaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2197E95-DE1F-4345-8CD8-83C11C29009E}|..\\Domain\\Domain\\Domain.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\domain\\domain\\proyectousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2197E95-DE1F-4345-8CD8-83C11C29009E}|..\\Domain\\Domain\\Domain.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\domain\\domain\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2197E95-DE1F-4345-8CD8-83C11C29009E}|..\\Domain\\Domain\\Domain.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\domain\\domain\\tareausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC50B32-1F74-45DE-A941-B0197428E5D4}|..\\Infrastructure\\Infrastructure\\Infrastructure.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\infrastructure\\infrastructure\\repositories\\tareasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CADA793-F270-4039-BB23-09D4B4DC137A}|ApiSampleFinal.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\web\\models\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CADA793-F270-4039-BB23-09D4B4DC137A}|ApiSampleFinal.csproj|solutionrelative:models\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CADA793-F270-4039-BB23-09D4B4DC137A}|ApiSampleFinal.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\web\\models\\dto\\usuarioiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CADA793-F270-4039-BB23-09D4B4DC137A}|ApiSampleFinal.csproj|solutionrelative:models\\dto\\usuarioiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CADA793-F270-4039-BB23-09D4B4DC137A}|ApiSampleFinal.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\web\\models\\dto\\proyectodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CADA793-F270-4039-BB23-09D4B4DC137A}|ApiSampleFinal.csproj|solutionrelative:models\\dto\\proyectodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CADA793-F270-4039-BB23-09D4B4DC137A}|ApiSampleFinal.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\web\\models\\dto\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CADA793-F270-4039-BB23-09D4B4DC137A}|ApiSampleFinal.csproj|solutionrelative:models\\dto\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CADA793-F270-4039-BB23-09D4B4DC137A}|ApiSampleFinal.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\web\\models\\dto\\createtarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CADA793-F270-4039-BB23-09D4B4DC137A}|ApiSampleFinal.csproj|solutionrelative:models\\dto\\createtarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CADA793-F270-4039-BB23-09D4B4DC137A}|ApiSampleFinal.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\web\\models\\dto\\tareadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CADA793-F270-4039-BB23-09D4B4DC137A}|ApiSampleFinal.csproj|solutionrelative:models\\dto\\tareadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CADA793-F270-4039-BB23-09D4B4DC137A}|ApiSampleFinal.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\web\\models\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CADA793-F270-4039-BB23-09D4B4DC137A}|ApiSampleFinal.csproj|solutionrelative:models\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CADA793-F270-4039-BB23-09D4B4DC137A}|ApiSampleFinal.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\web\\models\\dto\\proyectoiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CADA793-F270-4039-BB23-09D4B4DC137A}|ApiSampleFinal.csproj|solutionrelative:models\\dto\\proyectoiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CADA793-F270-4039-BB23-09D4B4DC137A}|ApiSampleFinal.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\web\\controllers\\tareacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CADA793-F270-4039-BB23-09D4B4DC137A}|ApiSampleFinal.csproj|solutionrelative:controllers\\tareacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF83616-5203-4809-9DC9-6E459F879376}|..\\Services\\Services\\Services.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\services\\services\\itareaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CADA793-F270-4039-BB23-09D4B4DC137A}|ApiSampleFinal.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CADA793-F270-4039-BB23-09D4B4DC137A}|ApiSampleFinal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CADA793-F270-4039-BB23-09D4B4DC137A}|ApiSampleFinal.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\web\\apisamplefinal.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9CADA793-F270-4039-BB23-09D4B4DC137A}|ApiSampleFinal.csproj|solutionrelative:apisamplefinal.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CADA793-F270-4039-BB23-09D4B4DC137A}|ApiSampleFinal.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9CADA793-F270-4039-BB23-09D4B4DC137A}|ApiSampleFinal.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC50B32-1F74-45DE-A941-B0197428E5D4}|..\\Infrastructure\\Infrastructure\\Infrastructure.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\infrastructure\\infrastructure\\migrations\\20241110223310_initialmigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF83616-5203-4809-9DC9-6E459F879376}|..\\Services\\Services\\Services.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\services\\services\\iproyectoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2197E95-DE1F-4345-8CD8-83C11C29009E}|..\\Domain\\Domain\\Domain.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\domain\\domain\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC50B32-1F74-45DE-A941-B0197428E5D4}|..\\Infrastructure\\Infrastructure\\Infrastructure.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\infrastructure\\infrastructure\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF83616-5203-4809-9DC9-6E459F879376}|..\\Services\\Services\\Services.csproj|c:\\users\\usuario\\onedrive\\documentos\\universidad\\parcial2\\apisamplefinal\\services\\services\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 387,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProyectosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Infrastructure\\Infrastructure\\Repositories\\IProyectosRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Infrastructure\\Repositories\\IProyectosRepository.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Infrastructure\\Infrastructure\\Repositories\\IProyectosRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Infrastructure\\Repositories\\IProyectosRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:51:38.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITareasRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Infrastructure\\Infrastructure\\Repositories\\ITareasRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Infrastructure\\Repositories\\ITareasRepository.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Infrastructure\\Infrastructure\\Repositories\\ITareasRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Infrastructure\\Repositories\\ITareasRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T01:08:40.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProyectoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Infrastructure\\Infrastructure\\Repositories\\ProyectoRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Infrastructure\\Repositories\\ProyectoRepository.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Infrastructure\\Infrastructure\\Repositories\\ProyectoRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Infrastructure\\Repositories\\ProyectoRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwDYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:21:55.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Infrastructure\\Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Infrastructure\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Infrastructure\\Infrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Infrastructure\\AppDbContext.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAswCcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:55:43.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Infrastructure\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Infrastructure\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAWwBkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:12:17.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Web\\Automapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Automapper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Web\\Automapper\\MappingProfile.cs",
+              "RelativeToolTip": "Automapper\\MappingProfile.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwBIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T00:49:41.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241026202658_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Infrastructure\\Infrastructure\\Migrations\\20241026202658_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Infrastructure\\Migrations\\20241026202658_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Infrastructure\\Infrastructure\\Migrations\\20241026202658_InitialCreate.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Infrastructure\\Migrations\\20241026202658_InitialCreate.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:51:27.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Infrastructure\\Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Infrastructure\\Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAIAywCUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:33:19.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsuarioServices.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Services\\Services\\UsuarioServices.cs",
+              "RelativeDocumentMoniker": "..\\Services\\Services\\UsuarioServices.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Services\\Services\\UsuarioServices.cs",
+              "RelativeToolTip": "..\\Services\\Services\\UsuarioServices.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAMwD4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:10:46.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Web\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Web\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAiwHUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T00:49:02.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Domain\\Domain\\Usuario.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Domain\\Usuario.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Domain\\Domain\\Usuario.cs",
+              "RelativeToolTip": "..\\Domain\\Domain\\Usuario.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIA9wBgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T20:42:16.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Infrastructure\\Infrastructure\\Repositories\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Infrastructure\\Repositories\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Infrastructure\\Infrastructure\\Repositories\\IUsuarioRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Infrastructure\\Repositories\\IUsuarioRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:55:50.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Contrase\u00F1aServices.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Services\\Services\\Contrase\u00F1aServices.cs",
+              "RelativeDocumentMoniker": "..\\Services\\Services\\Contrase\u00F1aServices.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Services\\Services\\Contrase\u00F1aServices.cs",
+              "RelativeToolTip": "..\\Services\\Services\\Contrase\u00F1aServices.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAWwB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T22:30:38.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Proyecto.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Domain\\Domain\\Proyecto.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Domain\\Proyecto.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Domain\\Domain\\Proyecto.cs",
+              "RelativeToolTip": "..\\Domain\\Domain\\Proyecto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T19:03:06.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUsuarioServices.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Services\\Services\\IUsuarioServices.cs",
+              "RelativeDocumentMoniker": "..\\Services\\Services\\IUsuarioServices.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Services\\Services\\IUsuarioServices.cs",
+              "RelativeToolTip": "..\\Services\\Services\\IUsuarioServices.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAlwA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T01:58:15.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Web\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-01T02:06:46.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Web\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Web\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-01T02:24:44.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProyectoController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Web\\Controllers\\ProyectoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProyectoController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Web\\Controllers\\ProyectoController.cs",
+              "RelativeToolTip": "Controllers\\ProyectoController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAawEwAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T03:46:11.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProyectoServices.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Services\\Services\\ProyectoServices.cs",
+              "RelativeDocumentMoniker": "..\\Services\\Services\\ProyectoServices.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Services\\Services\\ProyectoServices.cs",
+              "RelativeToolTip": "..\\Services\\Services\\ProyectoServices.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAawDwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T01:33:00.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TareaServices.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Services\\Services\\TareaServices.cs",
+              "RelativeDocumentMoniker": "..\\Services\\Services\\TareaServices.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Services\\Services\\TareaServices.cs",
+              "RelativeToolTip": "..\\Services\\Services\\TareaServices.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAAAHUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T00:50:13.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProyectoUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Domain\\Domain\\ProyectoUsuario.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Domain\\ProyectoUsuario.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Domain\\Domain\\ProyectoUsuario.cs",
+              "RelativeToolTip": "..\\Domain\\Domain\\ProyectoUsuario.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:26:34.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Domain\\Domain\\Tarea.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Domain\\Tarea.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Domain\\Domain\\Tarea.cs",
+              "RelativeToolTip": "..\\Domain\\Domain\\Tarea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T22:28:33.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TareaUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Domain\\Domain\\TareaUsuario.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Domain\\TareaUsuario.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Domain\\Domain\\TareaUsuario.cs",
+              "RelativeToolTip": "..\\Domain\\Domain\\TareaUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:13:32.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TareasRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Infrastructure\\Infrastructure\\Repositories\\TareasRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Infrastructure\\Repositories\\TareasRepository.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Infrastructure\\Infrastructure\\Repositories\\TareasRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Infrastructure\\Repositories\\TareasRepository.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAqwGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T00:54:08.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UsuarioIdDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Web\\Models\\DTO\\UsuarioIdDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\UsuarioIdDTO.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Web\\Models\\DTO\\UsuarioIdDTO.cs",
+              "RelativeToolTip": "Models\\DTO\\UsuarioIdDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T20:44:36.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProyectoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Web\\Models\\DTO\\ProyectoDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\ProyectoDTO.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Web\\Models\\DTO\\ProyectoDTO.cs",
+              "RelativeToolTip": "Models\\DTO\\ProyectoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:49:58.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ClienteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Web\\Models\\DTO\\ClienteDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\ClienteDTO.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Web\\Models\\DTO\\ClienteDTO.cs",
+              "RelativeToolTip": "Models\\DTO\\ClienteDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T00:50:09.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Web\\Models\\DTO\\UsuarioDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\UsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Web\\Models\\DTO\\UsuarioDTO.cs",
+              "RelativeToolTip": "Models\\DTO\\UsuarioDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T20:03:44.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CreateTarea.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Web\\Models\\DTO\\CreateTarea.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\CreateTarea.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Web\\Models\\DTO\\CreateTarea.cs",
+              "RelativeToolTip": "Models\\DTO\\CreateTarea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T20:56:46.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TareaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Web\\Models\\DTO\\TareaDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\TareaDTO.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Web\\Models\\DTO\\TareaDTO.cs",
+              "RelativeToolTip": "Models\\DTO\\TareaDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:26:54.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Web\\Models\\DTO\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Web\\Models\\DTO\\LoginRequest.cs",
+              "RelativeToolTip": "Models\\DTO\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T20:52:23.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProyectoIdDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Web\\Models\\DTO\\ProyectoIdDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\ProyectoIdDTO.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Web\\Models\\DTO\\ProyectoIdDTO.cs",
+              "RelativeToolTip": "Models\\DTO\\ProyectoIdDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T20:43:51.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TareaController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Web\\Controllers\\TareaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TareaController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Web\\Controllers\\TareaController.cs",
+              "RelativeToolTip": "Controllers\\TareaController.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAgwJoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T23:50:12.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Web\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Web\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIA5wCUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:06:17.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ITareaServices.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Services\\Services\\ITareaServices.cs",
+              "RelativeDocumentMoniker": "..\\Services\\Services\\ITareaServices.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Services\\Services\\ITareaServices.cs",
+              "RelativeToolTip": "..\\Services\\Services\\ITareaServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:55:56.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ApiSampleFinal.http",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Web\\ApiSampleFinal.http",
+              "RelativeDocumentMoniker": "ApiSampleFinal.http",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Web\\ApiSampleFinal.http",
+              "RelativeToolTip": "ApiSampleFinal.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-10T23:52:27.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T03:07:40.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20241110223310_InitialMigration.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Infrastructure\\Infrastructure\\Migrations\\20241110223310_InitialMigration.Designer.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Infrastructure\\Migrations\\20241110223310_InitialMigration.Designer.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Infrastructure\\Infrastructure\\Migrations\\20241110223310_InitialMigration.Designer.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Infrastructure\\Migrations\\20241110223310_InitialMigration.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:07:58.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IProyectoServices.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Services\\Services\\IProyectoServices.cs",
+              "RelativeDocumentMoniker": "..\\Services\\Services\\IProyectoServices.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Services\\Services\\IProyectoServices.cs",
+              "RelativeToolTip": "..\\Services\\Services\\IProyectoServices.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwA4AAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T01:35:14.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Domain\\Domain\\Rol.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Domain\\Rol.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Domain\\Domain\\Rol.cs",
+              "RelativeToolTip": "..\\Domain\\Domain\\Rol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T20:41:32.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Infrastructure\\Infrastructure\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Infrastructure\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Infrastructure\\Infrastructure\\BaseRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Infrastructure\\BaseRepository.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA9wBMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:59:02.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Dependencyinjection.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Services\\Services\\Dependencyinjection.cs",
+              "RelativeDocumentMoniker": "..\\Services\\Services\\Dependencyinjection.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\UNIVERSIDAD\\Parcial2\\ApiSampleFinal\\Services\\Services\\Dependencyinjection.cs",
+              "RelativeToolTip": "..\\Services\\Services\\Dependencyinjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:58:59.729Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 25,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

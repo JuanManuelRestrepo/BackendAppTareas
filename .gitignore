@@ -1,0 +1,14 @@
+# Ignorar carpetas temporales y de caché del sistema
+AppData/
+*.log
+*.bak
+*.swp
+*.tmp
+
+# Ignorar archivos específicos del IDE
+.vscode/
+.idea/
+
+# Ignorar archivos de dependencias
+node_modules/
+
